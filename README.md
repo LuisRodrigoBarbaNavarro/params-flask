@@ -12,5 +12,32 @@
 
 ---
 
-# Recursos ✨
+### Recursos ✨
 !["Código Fuente"](https://i.imgur.com/7dNRhGt.png)
+
+---
+### Implementación ✨
+
+Con `@app.route('/welcome')`
+
+```python
+Bienvenido a la página principal.
+```
+
+Con `@app.route('/welcome/<name>')`
+
+```python
+Bienvenido a la página principal, Rodrigo.
+```
+
+Con `@app.route('/welcome/<int:control>')`
+
+```python
+El número recibido es: 20490687.
+```
+
+Con `@app.route('/welcome/<name>/<int:control>')`
+
+```python
+El número recibido es: 20490687 y el nombre es: Rodrigo Barba.
+```
