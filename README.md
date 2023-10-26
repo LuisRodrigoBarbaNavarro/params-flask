@@ -52,7 +52,7 @@ Explicación: En este caso, cuando un usuario acceda a la ruta '/welcome/Rodrigo
 
 Con `practice-1-5.py`
 
-Explicación: Básicamente son las cuatros formas de enrutamiento anteriormente expuestas, y todas hacen llamar la misma función welcome(), sólo que mediante excepciones podemos controlar la forma en la que los parámetros de entrada son manejados; si solamente llega el nombre se proporciona la vista sobre el nombre, caso contrario, solamente llega el número control, se proporciona la vista con el número de control. Lo mismo sucede cuando llegan los dos parámetros juntos o no llega ninguno.
+Explicación: Básicamente son las cuatros formas de enrutamiento anteriormente expuestas, y todas hacen llamar la misma función welcome(), sólo que mediante condiciones podemos controlar la forma en la que los parámetros de entrada son manejados; si solamente llega el nombre se proporciona la vista sobre el nombre, caso contrario, solamente llega el número control, se proporciona la vista con el número de control. Lo mismo sucede cuando llegan los dos parámetros juntos o no llega ninguno.
 
 Con `practice-1-6.py`
 
