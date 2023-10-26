@@ -55,4 +55,5 @@ Con `practice-1-5.py`
 Explicación: Básicamente son las cuatros formas de enrutamiento anteriormente expuestas, y todas hacen llamar la misma función welcome(), sólo que mediante excepciones podemos controlar la forma en la que los parámetros de entrada son manejados; si solamente llega el nombre se proporciona la vista sobre el nombre, caso contrario, solamente llega el número control, se proporciona la vista con el número de control. Lo mismo sucede cuando llegan los dos parámetros juntos o no llega ninguno.
 
 Con `practice-1-6.py`
+
 Explicación: Básicamente, se muestran la clasificación de cuatro diferentes tipos de datos utilizados en Python, donde se hace notorio la aparición de 'None' como un objeto especial de tipo 'NoneType', por lo que esta palabra reservada en si, no significa cero, sino nulo o no disponible.
